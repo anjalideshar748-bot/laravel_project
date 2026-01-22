@@ -7,6 +7,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+//HTTP Methods: GET, POST, PUT, DELETE, PATCH
 Route::get("/about",function() {
     $companies=Company::all();
     return $companies;
