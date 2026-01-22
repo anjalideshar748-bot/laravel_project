@@ -8,7 +8,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-//HTTP Methods: GET, POST, PUT, DELETE, PATCH
+//HTTP Methods:
+// GET-> read,
+// POST->create,
+// PUT/PATCH->update,
+// DELETE->delete
 Route::get("/about",function() {
     $companies=Company::all();
     return $companies;
