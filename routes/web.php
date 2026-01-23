@@ -12,7 +12,7 @@ Route::get('/', function () {
 // get-> read,
 //post ->create,
 // put/patch->update,
-// DELETE->delete
+// ->delete
 Route::get("/about",function() {
     $companies=Company::all();
     return $companies;
