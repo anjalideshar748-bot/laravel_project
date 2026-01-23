@@ -11,7 +11,7 @@ Route::get('/', function () {
 //HTTP Methods:
 // get-> read,
 //post ->create,
-// PUT/PATCH->update,
+// /PATCH->update,
 // DELETE->delete
 Route::get("/about",function() {
     $companies=Company::all();
