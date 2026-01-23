@@ -9,7 +9,7 @@ Route::get('/', function () {
 });
 
 //HTTP Methods:
-// -> read,
+// get-> read,
 // POST->create,
 // PUT/PATCH->update,
 // DELETE->delete
