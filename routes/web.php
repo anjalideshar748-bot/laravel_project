@@ -10,7 +10,7 @@ Route::get('/', function () {
 
 //HTTP Methods:
 // Get-> read
-//post ->create
+//post->create
 // put/patch->update
 // delete->delete
 Route::get("/about",function() {
