@@ -2,7 +2,7 @@
  {{companies}}
  <section>
     <div class="container">
-        <h1>Companie Data</h1>
+        <h1>Companies Data</h1>
         <table>
             <thead>
                 <tr>
