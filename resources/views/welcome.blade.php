@@ -23,7 +23,7 @@
                 <input type="text" name="email" id="email" class="w-full">
             </div>
              <div>
-                <label for="address">Enter Company Address</label>
+                <label for="address">Enter Company Address </label>
                 <input type="text" name="address" id="address" class="w-full">
             </div>
             <div>
