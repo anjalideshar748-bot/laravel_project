@@ -15,7 +15,7 @@
                 <input type="text" name="name" id="name" class="w-full">
             </div>
              <div>
-                <label for="phone">Enter Company Phone</label>
+                <label for="phone">Enter Company Phone </label>
                 <input type="text" name="phone" id="phone" class="w-full">
             </div>
              <div>
