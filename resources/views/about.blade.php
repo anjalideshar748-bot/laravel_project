@@ -8,7 +8,7 @@
                 <tr>
                     <th class="border-2">Name</th>
                      <th class="border-2">Phone</th>
-                      <th class="border-2"> Email</th>
+                      <th class="border-2">Email</th>
                        <th class="border-2"> Address</th>
                         <th class="border-2"> Logo</th>
                          <th class="border-2">Action</th>
