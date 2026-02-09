@@ -11,7 +11,7 @@
 
           <div class="grid grid-cols-2 gap-5">
             <div>
-                <label for="name">Enter Company Name </label>
+                <label for="name">Enter Company Name</label>
                 <input type="text" name="name" id="name" class="w-full">
             </div>
              <div>
