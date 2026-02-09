@@ -19,7 +19,7 @@
                 <input type="text" name="phone" id="phone" class="w-full">
             </div>
              <div>
-                <label for="email">Enter Company Email </label>
+                <label for="email">Enter Company Email</label>
                 <input type="text" name="email" id="email" class="w-full">
             </div>
              <div>
