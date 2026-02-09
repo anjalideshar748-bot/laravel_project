@@ -27,7 +27,7 @@
                 <input type="text" name="address" id="address" class="w-full">
             </div>
             <div>
-                <label for="logo">Upload company logo</label>
+                <label for="logo">Upload Company logo</label>
                 <input type="text" name="logo" id="logo" class="w-full">
             </div>
             <div>
